@@ -3,7 +3,7 @@
     "description": "Design by Contract framework for PHP",
     "require": {
         "php": "~7.1",
-        "goaop/framework": "^2.3"
+        "goaop/framework": "3.0.0-RC2"
     },
     "require-dev": {
         "beberlei/assert": "~3.0",
